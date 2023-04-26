@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Glav10BES\Glav10BES\bin\Debug\Glav10BES.exe.config
+C:\Users\student\source\repos\Glav10BES\Glav10BES\bin\Debug\Glav10BES.exe
+C:\Users\student\source\repos\Glav10BES\Glav10BES\bin\Debug\Glav10BES.pdb
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.Form1.resources
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.Properties.Resources.resources
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.exe
+C:\Users\student\source\repos\Glav10BES\Glav10BES\obj\Debug\Glav10BES.pdb
